@@ -9,3 +9,6 @@ Started on my own online portfolio. Mainly took most time getting the environmen
 
 ### R1D2
 Added to online portfolio, it's still pretty basic but I got a navbar working with anchors now. Stuck trying to get css to load an asset
+
+### R1D3
+Now I have my home image working and scaling based on view size. So it *should* be mobile friendly, but that will come later. Adding headshot tomorrow
