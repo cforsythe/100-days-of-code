@@ -24,5 +24,12 @@
 
 **Link to work:** [Portfolio](https://github.com/cforsythe/portfolio/commit/4c2d12ad90f9faf7b2658c24208090cec576b0d5)
 
+### Day 3: March 15, 2019
+
+**Today's Progress**: Just a check in for today will make up the hour tomorrow 
+
+
+
+
 
 
